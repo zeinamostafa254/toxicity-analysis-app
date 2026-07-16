@@ -72,7 +72,7 @@ def main():
             else:
                 st.warning("Please enter text.")
 
-    elif menu_choice == "Image Captioning":
+    """elif menu_choice == "Image Captioning":
         st.title("Image Captioning")
         
         # Lazy load the imagecaption module
@@ -94,7 +94,6 @@ def main():
     elif menu_choice == "Database Viewing Option":
         st.title("Prediction Database")
         records_df = fetch_all_records()
-        st.dataframe(records_df)
-
+        st.dataframe(records_df)"""
 if __name__ == "__main__":
     main()
