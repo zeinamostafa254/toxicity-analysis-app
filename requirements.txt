@@ -1,0 +1,7 @@
+streamlit
+pandas
+tensorflow
+torch
+transformers
+nltk
+pillow
