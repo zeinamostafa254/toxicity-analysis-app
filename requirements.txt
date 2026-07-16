@@ -1,6 +1,6 @@
 streamlit
 pandas
-tensorflow
+tensorflow-cpu
 torch
 transformers
 nltk
